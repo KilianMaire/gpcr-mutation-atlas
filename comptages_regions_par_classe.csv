@@ -1,0 +1,176 @@
+﻿classe,region,variants,LOF_seul,GOF_seul,sans_effet_seul,inconnu,plusieurs_effets
+Class A (Rhodopsin),N-term,5945,25,1,7,5912,0
+Class A (Rhodopsin),TM1,3745,20,2,6,3717,0
+Class A (Rhodopsin),ICL1,593,8,0,3,581,1
+Class A (Rhodopsin),TM2,3619,69,4,5,3538,3
+Class A (Rhodopsin),ECL1,654,7,0,6,641,0
+Class A (Rhodopsin),TM3,4808,146,7,15,4637,3
+Class A (Rhodopsin),ICL2,1225,21,2,5,1197,0
+Class A (Rhodopsin),TM4,3313,44,2,7,3260,0
+Class A (Rhodopsin),ECL2,2882,64,6,10,2799,3
+Class A (Rhodopsin),TM5,5065,71,8,6,4980,0
+Class A (Rhodopsin),ICL3,2368,2,1,1,2363,1
+Class A (Rhodopsin),TM6,5163,129,11,7,5012,4
+Class A (Rhodopsin),TM7,3817,95,2,11,3700,9
+Class A (Rhodopsin),H8,1783,8,0,1,1773,1
+Class A (Rhodopsin),C-term,6064,5,0,5,6053,1
+Class A (Rhodopsin),ECL3,712,4,0,2,705,1
+Class A (Rhodopsin),Non assigné,5,0,1,1,3,0
+Class B1 (Secretin),N-term,899,17,3,5,872,2
+Class B1 (Secretin),TM1,309,4,0,0,304,1
+Class B1 (Secretin),ICL1,32,0,0,0,32,0
+Class B1 (Secretin),TM2,290,19,1,0,270,0
+Class B1 (Secretin),ECL1,161,2,0,0,159,0
+Class B1 (Secretin),TM3,261,3,0,0,258,0
+Class B1 (Secretin),TM4,207,4,0,0,203,0
+Class B1 (Secretin),ECL2,117,6,0,0,109,2
+Class B1 (Secretin),TM5,238,4,0,0,234,0
+Class B1 (Secretin),ICL3,46,1,0,1,44,0
+Class B1 (Secretin),TM6,241,3,1,0,237,0
+Class B1 (Secretin),TM7,229,5,0,0,222,2
+Class B1 (Secretin),H8,175,0,0,4,171,0
+Class B1 (Secretin),C-term,323,0,1,5,317,0
+Class B1 (Secretin),ECL3,40,1,0,0,39,0
+Class B1 (Secretin),ICL2,41,5,0,0,36,0
+Class B2 (Adhesion),N-term,10328,29,13,3,10283,0
+Class B2 (Adhesion),TM1,352,3,0,0,349,0
+Class B2 (Adhesion),ICL1,83,0,0,0,83,0
+Class B2 (Adhesion),TM2,282,12,0,0,270,0
+Class B2 (Adhesion),ECL1,80,0,0,0,80,0
+Class B2 (Adhesion),TM3,371,21,0,0,350,0
+Class B2 (Adhesion),ICL2,98,3,0,0,95,0
+Class B2 (Adhesion),TM4,214,0,0,0,214,0
+Class B2 (Adhesion),ECL2,213,9,0,0,204,0
+Class B2 (Adhesion),TM5,380,18,2,0,360,0
+Class B2 (Adhesion),ICL3,137,1,0,0,136,0
+Class B2 (Adhesion),TM6,274,18,0,0,256,0
+Class B2 (Adhesion),TM7,234,20,0,0,214,0
+Class B2 (Adhesion),H8,180,1,0,0,179,0
+Class B2 (Adhesion),C-term,1595,2,2,0,1591,0
+Class B2 (Adhesion),ECL3,49,1,0,0,48,0
+Class C (Glutamate),N-term,3907,66,16,3,3822,0
+Class C (Glutamate),TM1,221,0,0,1,220,0
+Class C (Glutamate),ICL1,94,0,2,0,92,0
+Class C (Glutamate),TM2,182,4,0,6,172,0
+Class C (Glutamate),ECL1,27,0,0,0,27,0
+Class C (Glutamate),TM3,332,7,3,11,307,4
+Class C (Glutamate),ICL2,108,0,0,3,105,0
+Class C (Glutamate),TM4,253,0,2,7,244,0
+Class C (Glutamate),ECL2,249,1,0,10,236,2
+Class C (Glutamate),TM5,245,13,3,14,213,2
+Class C (Glutamate),ICL3,55,1,0,0,54,0
+Class C (Glutamate),TM6,219,10,7,4,194,4
+Class C (Glutamate),ECL3,24,0,0,1,23,0
+Class C (Glutamate),TM7,275,13,1,10,249,2
+Class C (Glutamate),H8,125,0,0,0,125,0
+Class C (Glutamate),C-term,2078,3,0,3,2072,0
+Class F (Frizzled),N-term,969,3,1,0,965,0
+Class F (Frizzled),TM1,126,0,1,0,124,1
+Class F (Frizzled),TM2,85,2,2,0,81,0
+Class F (Frizzled),ECL1,109,0,0,0,109,0
+Class F (Frizzled),TM3,82,0,0,0,82,0
+Class F (Frizzled),TM4,109,1,0,0,108,0
+Class F (Frizzled),ECL2,49,0,3,1,45,0
+Class F (Frizzled),TM5,153,1,2,1,149,0
+Class F (Frizzled),ICL3,28,0,0,0,28,0
+Class F (Frizzled),TM6,170,2,1,1,166,0
+Class F (Frizzled),ECL3,80,0,0,0,80,0
+Class F (Frizzled),TM7,106,3,3,0,100,0
+Class F (Frizzled),H8,80,0,0,0,80,0
+Class F (Frizzled),ICL1,20,0,0,0,20,0
+Class F (Frizzled),C-term,355,1,0,0,354,0
+Class F (Frizzled),ICL2,3,0,0,0,3,0
+Class O1 (Olfactory/extra-nasal 1),N-term,173,0,0,0,173,0
+Class O1 (Olfactory/extra-nasal 1),TM1,259,0,0,0,259,0
+Class O1 (Olfactory/extra-nasal 1),TM2,287,0,0,0,287,0
+Class O1 (Olfactory/extra-nasal 1),TM3,311,1,0,0,310,0
+Class O1 (Olfactory/extra-nasal 1),TM4,268,1,0,0,267,0
+Class O1 (Olfactory/extra-nasal 1),ECL2,221,0,0,0,221,0
+Class O1 (Olfactory/extra-nasal 1),TM5,310,2,0,0,308,0
+Class O1 (Olfactory/extra-nasal 1),TM6,338,0,0,0,338,0
+Class O1 (Olfactory/extra-nasal 1),ECL3,38,0,0,0,38,0
+Class O1 (Olfactory/extra-nasal 1),TM7,225,0,0,0,225,0
+Class O1 (Olfactory/extra-nasal 1),H8,137,0,0,0,137,0
+Class O1 (Olfactory/extra-nasal 1),C-term,43,0,0,0,43,0
+Class O1 (Olfactory/extra-nasal 1),ICL1,36,0,0,0,36,0
+Class O1 (Olfactory/extra-nasal 1),ICL2,66,0,0,0,66,0
+Class O1 (Olfactory/extra-nasal 1),ECL1,49,0,0,0,49,0
+Class O1 (Olfactory/extra-nasal 1),ICL3,21,0,0,0,21,0
+Class O2 (Olfactory/extra-nasal 2),TM1,1570,0,0,0,1570,0
+Class O2 (Olfactory/extra-nasal 2),ICL1,237,0,0,0,237,0
+Class O2 (Olfactory/extra-nasal 2),TM2,1590,0,0,0,1590,0
+Class O2 (Olfactory/extra-nasal 2),ECL1,250,0,0,0,250,0
+Class O2 (Olfactory/extra-nasal 2),TM3,1835,1,0,0,1834,0
+Class O2 (Olfactory/extra-nasal 2),ICL2,461,0,0,0,461,0
+Class O2 (Olfactory/extra-nasal 2),TM4,1418,0,0,0,1418,0
+Class O2 (Olfactory/extra-nasal 2),ECL2,1274,0,0,0,1274,0
+Class O2 (Olfactory/extra-nasal 2),TM5,1766,0,0,0,1766,0
+Class O2 (Olfactory/extra-nasal 2),TM6,1667,3,0,0,1664,0
+Class O2 (Olfactory/extra-nasal 2),ECL3,259,0,0,0,259,0
+Class O2 (Olfactory/extra-nasal 2),TM7,1302,1,0,0,1301,0
+Class O2 (Olfactory/extra-nasal 2),H8,832,0,0,0,832,0
+Class O2 (Olfactory/extra-nasal 2),C-term,151,0,0,0,151,0
+Class O2 (Olfactory/extra-nasal 2),N-term,858,0,0,0,858,0
+Class O2 (Olfactory/extra-nasal 2),ICL3,106,0,0,0,106,0
+Class T2 (Taste 2),TM1,386,0,0,0,386,0
+Class T2 (Taste 2),TM2,325,1,0,0,324,0
+Class T2 (Taste 2),ECL1,48,0,0,0,48,0
+Class T2 (Taste 2),TM3,416,3,0,0,413,0
+Class T2 (Taste 2),ICL2,137,1,0,0,136,0
+Class T2 (Taste 2),TM4,350,0,0,0,350,0
+Class T2 (Taste 2),ECL2,297,0,0,0,297,0
+Class T2 (Taste 2),TM5,431,3,0,0,428,0
+Class T2 (Taste 2),ICL3,49,0,0,0,49,0
+Class T2 (Taste 2),TM6,382,7,0,0,375,0
+Class T2 (Taste 2),ECL3,38,0,0,0,38,0
+Class T2 (Taste 2),TM7,264,5,0,0,259,0
+Class T2 (Taste 2),H8,211,0,0,0,211,0
+Class T2 (Taste 2),ICL1,25,0,0,0,25,0
+Class T2 (Taste 2),C-term,59,0,0,0,59,0
+Class T2 (Taste 2),N-term,32,0,0,0,32,0
+Class V1 (Vomeronasal),N-term,9,0,0,0,9,0
+Class V1 (Vomeronasal),TM1,15,0,0,0,15,0
+Class V1 (Vomeronasal),ICL1,4,0,0,0,4,0
+Class V1 (Vomeronasal),TM2,14,0,0,0,14,0
+Class V1 (Vomeronasal),TM3,17,0,0,0,17,0
+Class V1 (Vomeronasal),ICL2,2,0,0,0,2,0
+Class V1 (Vomeronasal),TM4,20,0,0,0,20,0
+Class V1 (Vomeronasal),ECL2,8,0,0,0,8,0
+Class V1 (Vomeronasal),TM5,24,0,0,0,24,0
+Class V1 (Vomeronasal),ICL3,6,0,0,0,6,0
+Class V1 (Vomeronasal),TM6,11,0,0,0,11,0
+Class V1 (Vomeronasal),ECL3,3,0,0,0,3,0
+Class V1 (Vomeronasal),TM7,14,0,0,0,14,0
+Class V1 (Vomeronasal),H8,7,0,0,0,7,0
+Class V1 (Vomeronasal),ECL1,1,0,0,0,1,0
+Class V1 (Vomeronasal),C-term,1,0,0,0,1,0
+Hors classification GPCRdb,ICL3,4,0,0,0,4,0
+Hors classification GPCRdb,N-term,1,0,0,0,1,0
+Hors classification GPCRdb,TM1,3,0,0,0,3,0
+Hors classification GPCRdb,ICL1,1,0,0,0,1,0
+Hors classification GPCRdb,TM2,6,0,0,0,6,0
+Hors classification GPCRdb,ECL1,4,0,0,0,4,0
+Hors classification GPCRdb,ICL2,1,0,0,0,1,0
+Hors classification GPCRdb,TM6,6,0,0,0,6,0
+Hors classification GPCRdb,ECL3,4,0,0,0,4,0
+Hors classification GPCRdb,TM7,3,0,0,0,3,0
+Hors classification GPCRdb,TM3,1,0,0,0,1,0
+Hors classification GPCRdb,ECL2,6,0,0,0,6,0
+Hors classification GPCRdb,C-term,2,0,0,0,2,0
+Hors classification GPCRdb,TM4,1,0,0,0,1,0
+Unclassified,N-term,105,0,0,0,105,0
+Unclassified,TM1,43,0,0,0,43,0
+Unclassified,ICL1,24,0,0,0,24,0
+Unclassified,TM2,58,0,0,0,58,0
+Unclassified,TM3,85,0,0,0,85,0
+Unclassified,ICL2,13,0,0,0,13,0
+Unclassified,TM4,59,0,0,0,59,0
+Unclassified,ECL2,28,0,0,0,28,0
+Unclassified,TM5,87,0,0,0,87,0
+Unclassified,ICL3,18,0,0,0,18,0
+Unclassified,TM6,76,0,0,0,76,0
+Unclassified,ECL3,18,0,0,0,18,0
+Unclassified,TM7,44,0,0,0,44,0
+Unclassified,C-term,189,0,0,0,189,0
+Unclassified,ECL1,17,0,0,0,17,0
+Unclassified,H8,13,0,0,0,13,0

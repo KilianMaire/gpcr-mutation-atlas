@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-08",
+  "receptors": 845,
+  "definitions": {
+    "count": "Nombre d’étiquettes distinctes gène–position–alternative dans les données rapprochées. Ce n’est ni un effectif de patients ni une fréquence allélique. Même étiquette dans plusieurs sources/essais comptée une fois.",
+    "class_comparison": "Numéros génériques GPCRdb standard, au sein de chaque classe. Positions sans numéro standard uniquement en vue séquence / types. Unclassified et hors classification exclus de la comparaison structurale multi-récepteurs.",
+    "absolute_positions": "Positions absolues sur les séquences de référence ; aucun alignement homologuant supposé.",
+    "source_unmapped": "Entrées en coordonnées source non validées sur la référence, conservées dans un CSV distinct, exclues du placement. Peuvent recouper des variants déjà placés.",
+    "source_notation": "X conservé distinct de * car la signification source ne doit pas être réinterprétée sans vérification. Six entrées ref=alt conservées distinctement ; ce ne sont pas des substitutions.",
+    "effect": "Couleurs reprises de l’atlas : annotations d’activité ou signalisation, certains extraits automatiques, et relectures ciblées. Pathogénicité clinique jamais déduite de la couleur. Effets connus multiples et inconnus affichés séparément.",
+    "density": "Étiquettes distinctes par position générique / nombre de récepteurs retenus où cette position est assignée. Dénominateur indépendant du filtre sur les variants. Classe GPCRdb séparée ; insertions conservées. Couverture <50 % : contour pointillé et hachures en mode densité ; ces positions sont exclues de l’échelle de densité. Le seuil est une règle d’affichage, pas un test statistique. Classement limité aux positions couvertes dans >=50 % des récepteurs. Échelle couleur log(1+n), recalculée par sous-ensemble, impropre aux comparaisons visuelles directes entre classes.",
+    "regions": "Encadrés snake plot : variants sans numéro générique standard, regroupés par région topologique. Bilan de région : toutes positions, alignées et hors alignement réunies. Les régions ne sont pas supposées alignées résidu par résidu.",
+    "effect_counts": "Comptages exclusifs : LOF seul, GOF seul, NEUTRAL seul, aucun effet classé, plusieurs effets connus. La couleur partagée en mode effets montre la présence de catégories connues, pas leur proportion ; des variants inconnus peuvent coexister."
+  },
+  "stats": {
+    "canonical_labels": 104042,
+    "standard_generic_labels": 59360,
+    "comparable_class_generic_labels": 58890,
+    "identical_reference_alternative": 6,
+    "source_notation_X": 37,
+    "stop_notation_star": 2184,
+    "known_effect_labels": 1448,
+    "source_unmapped_rows": 56863
+  },
+  "main_document": "index.html",
+  "views": [
+    "Carte de synthèse sur snake plot, par classe",
+    "Snake plot et séquence individuels, 845 entrées",
+    "Matrice AA référence vers alternative"
+  ],
+  "aggregate_classes": 9
+}
